@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o AluraFlix, e um projeto realizado em React + Vite, e faz parte do desafio da Alura na especialização Front-end.
 
-Currently, two official plugins are available:
+O Projeto consiste em uma plataforma de videos, onde é possivel incluir, editar e assistir os videos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Foi utilizado uma api on-line que armazena os dados dos videos.
