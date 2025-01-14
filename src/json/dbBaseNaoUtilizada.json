@@ -1,0 +1,146 @@
+[
+        {
+            "id": "1",
+            "titulo": "O que faz uma desenvolvedora front-end?",
+            "imagem": "https://img.youtube.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+            "categoria": "Front-end",
+            "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa nesse episódio!",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": "2",
+            "titulo": "Aprenda a transformar design em código com o Figma",
+            "imagem": "https://img.youtube.com/vi/sup2hlWm5yE/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=sup2hlWm5yE",
+            "categoria": "Front-end",
+            "descricao": "Se você é Dev Front-End e quer aprender como utilizar o Figma, vem com a gente! A Rafaella Ballerini, instrutora de Front-End na Alura, vem trazer várias dicas pra você transformar o design em código. Aprenda como exportar imagens, ícones e inspecionar os elementos direto do Figma.",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": "3",
+            "titulo": "O que é Front End e Back End? Diferenças que Você Precisa Saber",
+            "imagem": "https://img.youtube.com/vi/LDU4BCSxPp4/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=LDU4BCSxPp4",
+            "categoria": "Front-end",
+            "descricao": "Acompanhe Guilherme Lima e Vinícius Neves, instrutores da Alura e experientes desenvolvedores, enquanto exploramos as bases dessas áreas e oferecemos dicas essenciais para iniciar sua jornada. Conheça as linguagens de programação Front End e Back End e as opções de cursos disponíveis. Pronto para mergulhar no universo do desenvolvimento web? Não perca esta oportunidade de aprendizado! ",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": "4",
+            "titulo": "PORTFÓLIO BACK-END",
+            "imagem": "https://img.youtube.com/vi/YVs-BXViC7o/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=YVs-BXViC7o",
+            "categoria": "Back-end",
+            "descricao": "Boas vindas ao sexto episódio de nossa Webserie Portfólio Dev! Neste episódio, Fabrício Carraro recebeu Juliana Amoasei, Desenvolvedora e Instrutora na Alura, para desenvolver um projeto de Back-end para seu portfólio a central é te ajudar a desenvolver um serviço para integração de API de filmes com sinopses em português",
+            "cor": "#00C86F"
+        },
+        {
+            "id": "5",
+            "titulo": "JavaScript para back-end | Hipsters.Talks",
+            "imagem": "https://img.youtube.com/vi/uyRDbGZG92E/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=uyRDbGZG92E",
+            "categoria": "Back-end",
+            "descricao": "Nesse episódio do Hipsters.Talks vamos conversar sobre a utilização de JavaScript para back-end e conhecer mais sobre sua aplicação no dia a dia de desenvolvimento.",
+            "cor": "#00C86F"
+        },
+        {
+            "id": "6",
+            "titulo": "Se prepare para uma entrevista de dev back-end | Hipsters: Entrevista de Emprego Tech",
+            "imagem": "https://img.youtube.com/vi/jzZdMEP8EkY/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=jzZdMEP8EkY",
+            "categoria": "Back-end",
+            "descricao": "Você está procurando uma vaga de emprego de dev back-end ? Então, se prepare para a entrevista de forma estratégica!",
+            "cor": "#00C86F"
+        },
+        {
+            "id": "7",
+            "titulo": "Desmistificando Mobile- Por onde eu começo?",
+            "imagem": "https://img.youtube.com/vi/2z6f8VN_Pro/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=2z6f8VN_Pro",
+            "categoria": "Mobile",
+            "descricao": "A Websérie “Desmistificando o mobile” vêm aí para simplificar com exemplos práticos vários assuntos envolvendo o mundo dos aplicativos de celular e neste primeiro episódio vamos partir, literalmente, do começo, por onde começar a estudar sobre o mundo dos apps? Os instrutores da escola de mobile da Alura nos ajudam com essa tarefa",
+            "cor": "#FFBA05"
+        },
+        {
+            "id": "8",
+            "titulo": "Desenvolvimento Android #HipstersPontoTube",
+            "imagem": "https://img.youtube.com/vi/fWscDFHKgw8/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+            "categoria": "Mobile",
+            "descricao": "Um episódio focado no desenvolvimento de aplicações Android. Neste bate-papo, Paulo Silveira e Felipe Torres conversam sobre os primeiros passos para começar a desenvolver, quais as principais ferramentas do desenvolvimento mobile, como colocar sua aplicação no ar e mais! ",
+            "cor": "#FFBA05"
+        },
+        {
+            "id": "9",
+            "titulo": "Desmistificando mobile- Linguagens e Frameworks",
+            "imagem": "https://img.youtube.com/vi/fmu1LQvZhms/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=fmu1LQvZhms",
+            "categoria": "Mobile",
+            "descricao": "No segundo episódio da websérie “Desmistificando o mobile” vamos entender um pouco sobre o que é feito após ser inserido no mundo dos apps: conhecer um pouco mais sobre frameworks e linguagens de programação e porque existem diferentes para fazer um aplicativo de celular. Vêm aprender um pouco na companhia do Alex Felipe, da Nathalia Thiel, Giovanna Moeller e do Caio Couto ",
+            "cor": "#FFBA05"
+        },
+        {
+            "id": "10",
+            "titulo": "O que é Data Science? #HipstersPontoTube",
+            "imagem": "https://img.youtube.com/vi/5b9Z8toVaAU/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=5b9Z8toVaAU",
+            "categoria": "Data Science",
+            "descricao": "Python é o novo Excel? Para que serve o R, Pandas e Jupyter? E qual é, afinal, a diferença entre o Data Science, Business Intelligence e Machine Learning? Descubra no primeiro episódio de Hipsters Ponto Tube!",
+            "cor": "#FF4D4D"
+        },
+        {
+            "id": "11",
+            "titulo": "Guia de carreira DATA SCIENCE",
+            "imagem": "https://img.youtube.com/vi/7KhaiCC3fJQ/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=7KhaiCC3fJQ",
+            "categoria": "Data Science",
+            "descricao": "Com o Guia de Carreira Data Science, aprenda o que é CIÊNCIA de DADOS e quais os caminhos possíveis para atuar na profissão de Cientista de Dados.",
+            "cor": "#FF4D4D"
+        },
+        {
+            "id": "12",
+            "titulo": "Métricas para o Front End com Mario Souto | #HipstersPontoTube",
+            "imagem": "https://img.youtube.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=iVNR-6v8lZU",
+            "categoria": "Front-end",
+            "descricao": "Neste vídeo o Paulo Silveira e o DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site. Se você tá começando a programar ou ainda não sabe quais métricas utilizar no dia a dia, confira o conteúdo e anota as dicas pra colocar em prática. E se você já tem utilizado no seu site métricas incríveis que impactam diretamente na performance, conta pra gente nos comentários, queremos saber 😉✌",
+            "cor": "#6BD1FF"
+        },
+        {
+            "id": "13",
+            "titulo": "Guia de Carreira PYTHON | #HipstersPontoTube",
+            "imagem": "https://img.youtube.com/vi/IQjd272BLnw/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=IQjd272BLnw",
+            "categoria": "Back-end",
+            "descricao": "9º ep. da Temporada do #HipstersPontoTube | Para você que se pergunta \"o que é o #python e para que serve essa linguagem de programação?\" ou mesmo \"o que se pode fazer com ela?\".",
+            "cor": "#00C86F"
+        },
+        {
+            "id": "14",
+            "titulo": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller | #HipstersPontoTube",
+            "imagem": "https://img.youtube.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A",
+            "categoria": "Mobile",
+            "descricao": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔",
+            "cor": "#FFBA05"
+        },
+        {
+            "id": "15",
+            "titulo": "Como criar um projeto de Data Science do zero para seu Portfólio | Hipsters: Portfólio Dev",
+            "imagem": "https://img.youtube.com/vi/hV3ORe7F8Q4/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=hV3ORe7F8Q4",
+            "categoria": "Data Science",
+            "descricao": "Neste episódio, Fabrício Carraro recebeu Ana Raquel, professora e Cientista de Dados da FIAP, para desenvolver um projeto para adicionar ao seu portfólio profissional. ",
+            "cor": "#FF4D4D"
+        },
+        {
+            "id": "16",
+            "titulo": "O que fazer para COMEÇAR DO ZERO uma CARREIRA DE DADOS hoje | Papo com especialista",
+            "imagem": "https://img.youtube.com/vi/-61pNJVWOxI/maxresdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=-61pNJVWOxI",
+            "categoria": "Data Science",
+            "descricao": "Nesse vídeo, Guilherme Silveira e Paulo Vasconcellos compartilharam dicas essenciais para você dar os primeiros passos rumo a uma carreira de sucesso em Ciência de Dados, Análise de dados ou Engenharia de Dados. ",
+            "cor": "#FF4D4D"
+        }
+    ]

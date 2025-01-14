@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1000,
+         "nome": "Front-end",
+        "cor": "#6BD1FF"
+    },
+    {
+        "id": 2000,
+         "nome": "Back-end",
+        "cor": "#00C86F"
+    },
+    {
+        "id": 3000,
+        "nome": "Inovação",
+        "cor": "#FFBA05"
+    },
+    {
+        "id": 4000,
+        "nome": "Gestão",
+        "cor": "#F96DC3"
+    },
+
+    {
+        "id": 5000,
+         "nome": "Mobile",
+        "cor": "#FFBA05"
+    },
+    {
+        "id": 6000,
+        "nome": "Design",
+        "cor": "#FF4D4D"
+    },
+    {
+        "id": 7000,
+        "nome": "Data Science",
+        "cor": "#FF4D4D"
+    }
+]
